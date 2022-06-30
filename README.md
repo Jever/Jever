@@ -45,4 +45,6 @@
 
 <img href="https://raw.githubusercontent.com/Jever/Jever/blob/output/snake.svg" alt="Snake animation" />
 
+![Snake animation](https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg)
+
 ###
