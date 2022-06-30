@@ -43,8 +43,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/Jever/Jever/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 ![Snake animation](https://github.com/Jever/Jever/blob/output/snake.svg)
 
