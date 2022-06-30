@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Jeverson and I'm a DevOps Engineer at DB1. I'm from Pato Branco - PR<br>And, this is my profile =D</h2>
+<h2 align="left">Hi👋! My name is Jeverson and I'm a DevOps Engineer at DB1.</h2>
 
 ###
 
@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/codethi/codethi/69645ac9673d2bb64039e312397effbc05d19356/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Jever/Jever/blob/output/snake.svg" alt="Snake animation" />
 
 ###
